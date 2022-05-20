@@ -1,0 +1,1 @@
+export PATH=/Applications/MAMP/bin/php/php7.4.21/bin:$PATH
