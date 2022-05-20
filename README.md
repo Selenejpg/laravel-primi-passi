@@ -56,7 +56,7 @@ Poi creiamo un nuovo progetto Laravel 7, utilizzando questo comando. NB: A causa
 
 Al termine dell'installazione, entriamo nella cartella del progetto e avviamo l'artisan serve con uno di questi due comandi:
 
-- php artisan 
+- php artisan serve 
 
 - php -S localhost:8000 -t public
 
